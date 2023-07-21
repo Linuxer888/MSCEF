@@ -1,0 +1,12 @@
+setup.py
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/vision.cpp
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cpu/ca_cpu.cpp
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cpu/psa_cpu.cpp
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cpu/syncbn_cpu.cpp
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cuda/ca_cuda.cu
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cuda/psa_cuda.cu
+D:/PycharmProjects/awesome-semantic-segmentation-pytorch-master/core/nn/csrc/cuda/syncbn_cuda.cu
+semantic_segmentation.egg-info/PKG-INFO
+semantic_segmentation.egg-info/SOURCES.txt
+semantic_segmentation.egg-info/dependency_links.txt
+semantic_segmentation.egg-info/top_level.txt
